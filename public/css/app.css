@@ -1,0 +1,84 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: forestgreen;
+}
+
+
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.header {
+height: 150px;
+    background: #ededed;
+    background: url(/images/garlandTop1.png) repeat-x 0 0;
+}
+
+.content {
+
+    padding-bottom: 100px;
+}
+
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background: url(/images/garland.png) repeat-x 0 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.santa h1 {
+    font-size: 4em;
+    font-weight: bold;
+    color: #7A0600;
+    font-family: 'Indie Flower', cursive;
+}
+
+.santa span {
+    font-size: 2em;
+    font-weight: bold;
+    color: #7A0600;
+    font-family: 'Indie Flower', cursive;
+}
+
+.santa .registerForm {
+    padding-top: 20px;
+}
+
+.santa .btn {
+    background: #C70900;
+}
+
+ul {
+    color: #7A0600;
+}
+
+
+@media only screen and (max-width:1024px) {
+
+    html, body, * {
+        margin-right: 0px!important;
+    }
+
+    .santa h1 {
+        font-size: 3em;
+    }
+
+    .santa span {
+        font-size: 1.5em;
+    }
+
+    .content {
+        padding-left: 15px!important;
+    }
+
+    .footer
+    {
+        display: none;
+    }
+}
