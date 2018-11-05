@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <title>My Secret Santa Claus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Generate your Free Secret Santa List, and include as many people as you want.
-    Use My Secret Santa Claus for school, work or family. Merry Christmas!">
+    <meta name="description" content="Generate your Free Secret Santa List, and include as many people as you want. Use My Secret Santa Claus for school, work or family. Merry Christmas!">
 <link href="/assets/favicon.ico" rel="icon" type="image/x-icon" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/app.css">
