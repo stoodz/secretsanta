@@ -28,7 +28,7 @@ class LogTheNameDrawn
     {
         $data = $event->guest->email . ' gave to ' . $event->guest->giving_to . "\n";
 
-        logToFile('/var/www/santa/public/assets/logfile.php',$data);
+//        logToFile('/var/www/santa/public/assets/logfile.php',$data);
 
         return true;
     }
