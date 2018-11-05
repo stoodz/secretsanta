@@ -5,7 +5,7 @@
 <title>New Secret Santa List</title>
 </head>
 <body>
-  <h2>You new Secret Santa list</h2>
+  <h2>Your new Secret Santa list</h2>
 
   <div>
         Thank you for creating a new Secret Santa list.
